@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="689e39e3-4dc5-4115-984a-63aa516128ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/get_started128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/get_started16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/get_started32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/get_started48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/contentScript.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vAw0oJMvlJqMuKjD6qHMSX6FQd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT PROJECTS\2021\Extension_for-_text_errors" />
+      <recent name="D:\IT PROJECTS\2021\Extension_for-_text_errors\images" />
+      <recent name="D:\IT PROJECTS\2021\Extension_for-_text_errors\templates" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="689e39e3-4dc5-4115-984a-63aa516128ef" name="Default Changelist" comment="" />
+      <created>1626017983165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626017983165</updated>
+      <workItem from="1626017985327" duration="3124000" />
+      <workItem from="1626100266598" duration="7269000" />
+      <workItem from="1626195110066" duration="10002000" />
+      <workItem from="1626289598704" duration="3388000" />
+      <workItem from="1626527344078" duration="10199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
